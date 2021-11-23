@@ -1,0 +1,97 @@
+/*Koboyoda Arthur Assima - Fouad Medjahed*/
+header{
+  text-align:center;
+}
+
+section#errorMessage{
+   background-color : lightyellow;
+   color:blue;
+   padding : 5pt;
+   margin : 10px ;
+}
+
+#cartecampus {
+     width : 500px;
+     height : 300px;
+     margin:auto;
+     margin-top: 100px;
+     margin-bottom: 100px;
+
+}
+
+body {
+  background-color: blue;
+  color:white;
+  font-family:fantasy;
+}
+header{
+  margin: auto;
+  padding:25px;
+  border:solid;
+  border-color: white;
+  border-width:5px;
+  border-radius: 20px;
+  background-image:linear-gradient(black,navy);
+  margin-bottom:20px;
+}
+
+table{
+  margin: auto;
+  padding:20px;
+  border:solid;
+  border-color: white;
+  border-width:5px;
+  border-radius: 20px;
+  background-image:linear-gradient(black,navy);
+}
+
+form{
+  margin: auto;
+  padding:20px;
+  border:solid;
+  border-color: white;
+  border-width:5px;
+  border-radius: 20px;
+  background-image:linear-gradient(black,navy);
+}
+td{
+  border: 1px solid #ddd;
+  padding: 1px;
+  text-align: center;
+}
+
+tr.marquee{
+  color:black;
+  background-color: white;
+  background-image:linear-gradient(orange,white);
+}
+
+.cb {
+	background-color: white;
+}
+
+h3{
+  text-align: center;
+}
+
+#ville {
+  border:solid;
+  border-color: white;
+  border-radius: 10px;
+  background-color: black;
+  color:white;
+}
+#rayon {
+  border:solid;
+  border-color: white;
+  border-radius: 10px;
+  background-color: black;
+  color:white;
+}
+
+#ville:hover {
+  border-color:orange;
+}
+#rayon:hover {
+  border-color:orange;
+}
